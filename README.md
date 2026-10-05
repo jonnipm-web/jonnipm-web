@@ -31,3 +31,7 @@ The public version documents the method. Product source code, private prompts, c
 ## Current focus
 
 Building reliable workflows where people and AI agents can work in parallel without losing architectural clarity, accountability, or evidence.
+
+## Collaboration
+
+For technical discussion, feedback, or collaboration, open an issue in [Site Guardian](https://github.com/jonnipm-web/site-guardian/issues) or start a discussion in one of the public repositories.
